@@ -1,7 +1,8 @@
 # Teaching a car to avoid obstacles using RL
-In this project I used reinforcement learning to teach a car to avoid obstacles. You can see a demo video of results is in the following link:
-  https://youtu.be/h6-735faAy4. 
- Here are some usefull references I used:
+In this project I used reinforcement learning to teach a car to avoid obstacles. You can find a demo video of dqn and double dqn results in the following links:
+  1- https://youtu.be/h6-735faAy4. 
+  2- https://youtu.be/VSEAuLm3AQo.
+  Here are some usefull references I used:
 - https://blog.coast.ai/reinforcement-learning-in-python-to-teach-an-rc-car-to-avoid-obstacles-part-3-a1d063ac962f 
 - https://www.youtube.com/watch?v=ticezSoAzxQ&t=63s 
 - https://github.com/harvitronix/reinforcement-learning-car
