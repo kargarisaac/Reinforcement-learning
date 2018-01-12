@@ -1,5 +1,5 @@
-# Teaching a car to avoid obstacles using RL
-In this project I used reinforcement learning to teach a car to avoid obstacles. You can find a demo video of dqn and double dqn results in the following links:
+# Teaching a car to avoid obstacles using Deep RL
+In this project I used deep reinforcement learning (ddqn) to teach a car to avoid obstacles. You can find a demo video of dqn and double dqn results in the following links:
   1- https://youtu.be/h6-735faAy4. 
   2- https://youtu.be/VSEAuLm3AQo.
   Here are some usefull references I used:
